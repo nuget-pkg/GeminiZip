@@ -1,8 +1,6 @@
-using System.Runtime;
 namespace Global.GeminiZip.Demo;
 using System;
-using System.CodeDom;
-using Global;
+using Universal;
 using static Global.EasyObject;
 public static class Program1 {
     public static void Main(string[] args) {

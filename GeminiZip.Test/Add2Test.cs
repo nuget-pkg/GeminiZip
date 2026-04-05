@@ -1,13 +1,9 @@
 // ReSharper disable once CheckNamespace
 namespace Global.GeminiZip.Test;
 
-using Global;
+using Universal;
 using NUnit.Framework;
-using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Reflection;
 using System.Runtime.CompilerServices;
 using static Global.EasyObject;
 
